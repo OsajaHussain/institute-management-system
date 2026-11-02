@@ -1,0 +1,8 @@
+{
+  "name": "institute-management-system",
+  "version": "1.0.0",
+  "description": "Institute Management System - Made by Osaja Hussain",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "mysql2": "^3.11.0" }
+}
